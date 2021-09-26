@@ -15,7 +15,7 @@ The first 55,000 participate to make four approved pull request (PRs) can earn a
 | 6:00   | Welcome      | Welcome        | Welcome        | Welcome        | Welcome        |
 | 6:05   | Five things to know to get started | Standup | Standup | Standup | Standup |
 | 6:15   |              | Lighting Talks | Lighting Talks | Lighting Talks | Lighting Talks | 
-| 6:30   |              | Community Keynote | Community Keynote | Community Keynote | Community Keynote |
+| 6:30   |  Community Keynote | Community Keynote | Community Keynote | Community Keynote | Community Keynote |
 | 6:55  | Q&A | Closeout | Closeout | Closeout | Closeout |
 
 
@@ -64,7 +64,14 @@ Let us know during the week if you are interested in sharing
 
 ## Community Keynote
 
-Hear from an expert from our community. These sessions are specially curated and not something to miss. Here is the current line up.
+Hear from an expert from our community. These sessions are specially curated and not something to miss. You could hear topics like:
+
+- Introductin to Open Source
+- Making a Pull Request in Detail
+- Getting Support while coding 
+- And more
+
+Here is the current line up.
 
 | Date | Speaker | Topic |
 |------|---------|-------|
