@@ -75,7 +75,7 @@ Here is the current line up.
 
 | Date | Speaker | Topic |
 |------|---------|-------|
-| Sept 30th | TBD | TBD |
+| Sept 30th | Rob Richardson aka [Rob Rich](https://robrich.org/) | My Experience as an Opensource Developer |
 | Oct 7th | TBD | TBD |
 | Oct 14th | TBD | TBD |
 | Oct 21st | TBD | TBD |
