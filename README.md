@@ -15,7 +15,7 @@ The first 55,000 participate to make four approved pull request (PRs) can earn a
 | 6:00 PM | Welcome      | Welcome        | Welcome        | Welcome        | Welcome        |
 | 6:05 PM | Five things to know to get started | Standup | Standup | Standup | Standup |
 | 6:15 PM |              | Lighting Talks | Lighting Talks | Lighting Talks | Lighting Talks | 
-| 6:30 PM |  Community Keynote | Community Keynote | Community Keynote | Community Keynote | Community Keynote |
+| 6:30 PM |  Community Keynote - [Rob Rich](https://robrich.org/) | Community Keynote | Community Keynote | Community Keynote | Community Keynote |
 | 6:55 PM | Q&A | Closeout | Closeout | Closeout | Closeout |
 
 
