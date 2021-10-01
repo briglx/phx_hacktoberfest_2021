@@ -30,7 +30,7 @@ This session will give you everything you need to know to get started and stay c
     - Review [Rules](https://hacktoberfest.digitalocean.com/resources/participation)
 - Finding Projects
     - [Hacktoberfest Site](https://hacktoberfest.digitalocean.com/resources/beginners)
-	- [Github Hacktoberfest Topic]([https://github.com/topics/hacktoberfest)
+	- [GitHub Hacktoberfest Topic]([https://github.com/topics/hacktoberfest)
     - [501(c)3 Projects]([https://github.com/briglx/501c3_projects)
 - How to [do a Pull Request](http://do.co/hf_firstpr)
 - Participate
