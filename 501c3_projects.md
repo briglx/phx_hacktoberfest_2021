@@ -6,7 +6,7 @@ Places to Search for Organizations
 
 - [Digital Public Goods](https://digitalpublicgoods.net/registry/)
 - [Social Impact](https://github.com/collections/social-impact)
-- 
+
 Organizations
 
 - [Code for America](https://www.codeforamerica.org/)
