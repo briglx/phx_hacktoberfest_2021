@@ -30,8 +30,8 @@ This session will give you everything you need to know to get started and stay c
     - Review [Rules](https://hacktoberfest.digitalocean.com/resources/participation)
 - Finding Projects
     - [Hacktoberfest Site](https://hacktoberfest.digitalocean.com/resources/beginners)
-	- [GitHub Hacktoberfest Topic]([https://github.com/topics/hacktoberfest)
-    - [501c3 Projects]([https://github.com/briglx/phx_hacktoberfest_2021/blob/main/501c3_projects.md)
+    - [GitHub Hacktoberfest Topic](https://github.com/topics/hacktoberfest)
+    - [501c3 Projects](https://github.com/briglx/phx_hacktoberfest_2021/blob/main/501c3_projects.md)
 - How to [do a Pull Request](http://do.co/hf_firstpr)
 - Participate
     - Join the [yesphx Slack Channel](https://yesphx.slack.com/)
