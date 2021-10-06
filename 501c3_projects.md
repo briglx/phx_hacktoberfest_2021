@@ -29,6 +29,8 @@ Organization Projects
 - [Django](https://github.com/django) 21 Repos
 - [WordPress](https://github.com/orgs/WordPress/repositories) 82 repos
 - [The Apache Software Foundation](https://github.com/apache) 2.3k Repos
+- Software Freedom Conservancy
+    - [Selenium](https://github.com/orgs/SeleniumHQ/repositories?q=hacktoberfest&type=&language=&sort=) 17 repos
 - [Mozilla](https://github.com/mozilla) 2.3k repos and [more](https://wiki.mozilla.org/GitHub#other_github)
 - [Gnome](https://gitlab.gnome.org/GNOME)
 - [OWASP](https://github.com/OWASP) 833 projects
@@ -38,6 +40,8 @@ Organization Projects participating in [Hacktoberfest](https://hacktoberfest.dig
 - [Freedom of the Press Foundation](https://freedom.press/about/) [Secure Drop](https://github.com/freedomofpress/securedrop)
 - [Apache Foundation](https://github.com/orgs/apache/repositories?q=hacktoberfest&type=&language=&sort=) 44 repos
 - [Mozilla](https://github.com/orgs/mozilla/repositories?q=hacktoberfest&type=&language=&sort=) 2 projects 
+- Software Freedom Conservancy
+    - [Selenium](https://github.com/orgs/SeleniumHQ/repositories?q=hacktoberfest&type=&language=&sort=) 2 repos
 - [OWASP](https://github.com/orgs/OWASP/repositories?q=hacktoberfest&type=&language=&sort=) 3 projects
 - [Django Django](https://github.com/django/django)
 
