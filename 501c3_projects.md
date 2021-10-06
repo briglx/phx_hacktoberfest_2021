@@ -36,7 +36,7 @@ Organization Projects
 Organization Projects participating in [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 	
 - [Freedom of the Press Foundation](https://freedom.press/about/) [Secure Drop](https://github.com/freedomofpress/securedrop)
-- [Apache Foundation][https://github.com/orgs/apache/repositories?q=hacktoberfest&type=&language=&sort=] 44 repos
+- [Apache Foundation](https://github.com/orgs/apache/repositories?q=hacktoberfest&type=&language=&sort=) 44 repos
 - [Mozilla](https://github.com/orgs/mozilla/repositories?q=hacktoberfest&type=&language=&sort=) 2 projects 
 - [OWASP](https://github.com/orgs/OWASP/repositories?q=hacktoberfest&type=&language=&sort=) 3 projects
 - [Django Django](https://github.com/django/django)
