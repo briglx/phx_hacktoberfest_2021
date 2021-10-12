@@ -12,7 +12,10 @@ The weekly calls are to stay connected.
 # Method
 
 - Use Teams to book a meeting in the future
-- Use aka.ms to create vanity url for your teams meetigns
+- Use aka.ms to create vanity url for your teams meetings
+    - pug_hacktoberfest_kickoff
+    - pug_hacktoberfest_week1
+    - ...
 - Use meetup.com or eventbright.com to create the event and point to the teams/vanity url
 - Promote your event and Register it with [Hacktoberfest Events](https://hacktoberfest.digitalocean.com/events)
 
@@ -21,6 +24,15 @@ There are a several meetings to create
 
 - One Kick Off meeting (Before Oct)
 - Weekly Standup Meetings during Oct.
+
+## Meetup Up Meeting Format
+
+| Field | Value |
+|-------|-------|
+|Title  | Hacktoberfest 2021 - Week 1 Standup |
+| Featured Photo | Use one from the assets |
+| Details | See the Sample Agenda |
+
 
 ## Kick Off Example Agenda
 
@@ -39,6 +51,8 @@ Bring your questions and ideas on how you would like to participate and how you 
 ## Weekly Standup Agenda
 
 Here is and example for the week one check-in:
+
+Title: Hacktoberfest 2021 - Week 1 Standup
 
 Hacktoberfest 2021 is finally upon us and we'll use this time to learn how to be a contributor.
 
