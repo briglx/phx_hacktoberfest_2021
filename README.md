@@ -10,13 +10,12 @@ The first 55,000 participate to make four approved pull request (PRs) can earn a
 
 |   | Thur 30 Sep 2021 | Thur 7 Oct 2021     | Thur 14 Oct 2021 | Thur 21 Oct 2021 | Thur 28 Oct 2021    |
 |--------|--------------|----------------|----------------|----------------|----------------|
-| Virtual Link | [Meeting Link](https://www.meetup.com/Phoenix-Azure-User-Group/events/280998779) | [Meeting Link](https://www.meetup.com/Phoenix-Azure-User-Group/events/281085755) | [Meeting Link](https://www.meetup.com/Phoenix-Azure-User-Group/events/281387339/) | Meeting Link TBD | Meeting Link TBD |
+| Virtual Link | [Meeting Link](https://www.meetup.com/Phoenix-Azure-User-Group/events/280998779) | [Meeting Link](https://www.meetup.com/Phoenix-Azure-User-Group/events/281085755) | [Meeting Link](https://www.meetup.com/Phoenix-Azure-User-Group/events/281387339/) | [Meeting Link](https://www.meetup.com/Phoenix-Azure-User-Group/events/281570576/) | Meeting Link TBD |
 |  Session      | Kick off     | Weekly Standup | Weekly Standup | Weekly Standup | Weekly Location |
 | 6:00 PM | Welcome      | Welcome        | Welcome        | Welcome        | Welcome        |
 | 6:05 PM | Five things to know to get started | Standup | Standup | Standup | Standup |
 | 6:15 PM |              | Lighting Talks | Lighting Talks | Lighting Talks | Lighting Talks | 
-| 6:30 PM |  Community Keynote - [Rob Rich](https://robrich.org/) | Community Keynote | Community Keynote - Daniel Billotte
- | Community Keynote | Community Keynote |
+| 6:30 PM |  Community Keynote - [Rob Rich](https://robrich.org/) | Community Keynote | Community Keynote - Daniel Billotte | Community Keynote - Brig Lamoreux (Python Fixtures in Testing)  | Community Keynote |
 | 6:55 PM | Q&A | Closeout | Closeout | Closeout | Closeout |
 
 
