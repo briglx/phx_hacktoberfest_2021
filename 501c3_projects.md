@@ -21,6 +21,7 @@ Organizations
 - [WordPress Foundation](https://wordpressfoundation.org/)
 - [Support the Django Software Foundation](https://www.djangoproject.com/foundation/donate/)
 - [OWASP Foundation](https://owasp.org/donate/)
+- [Mifos](https://mifos.org/take-action/donate-now/)
 
 
 Organization Projects
@@ -34,6 +35,7 @@ Organization Projects
 - [Mozilla](https://github.com/mozilla) 2.3k repos and [more](https://wiki.mozilla.org/GitHub#other_github)
 - [Gnome](https://gitlab.gnome.org/GNOME)
 - [OWASP](https://github.com/OWASP) 833 projects
+- [Mifos](https://github.com/orgs/openMF/repositories?label=hacktoberfest)
 
 Organization Projects participating in [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 	
@@ -44,4 +46,5 @@ Organization Projects participating in [Hacktoberfest](https://hacktoberfest.dig
     - [Selenium](https://github.com/orgs/SeleniumHQ/repositories?q=hacktoberfest&type=&language=&sort=) 2 repos
 - [OWASP](https://github.com/orgs/OWASP/repositories?q=hacktoberfest&type=&language=&sort=) 3 projects
 - [Django Django](https://github.com/django/django)
+- [Mifos](https://github.com/orgs/openMF/repositories?label=hacktoberfest) 4 Projects
 
