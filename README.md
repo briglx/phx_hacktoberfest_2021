@@ -77,8 +77,8 @@ Here is the current line up.
 |------|---------|-------|
 | Sept 30th | Rob Richardson aka [Rob Rich](https://robrich.org/) | My Experience as an Opensource Developer |
 | Oct 7th | TBD | TBD |
-| Oct 14th | TBD | TBD |
-| Oct 21st | TBD | TBD |
+| Oct 14th | Daniel Billotte | Python Generators |
+| Oct 21st | Brig Lamoreaux | Fixtures in Unit testings |
 | Oct 27th | TBD | TBD |
 
 # Thanks
