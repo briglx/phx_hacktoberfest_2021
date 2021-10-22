@@ -36,6 +36,7 @@ Organization Projects
 - [Gnome](https://gitlab.gnome.org/GNOME)
 - [OWASP](https://github.com/OWASP) 833 projects
 - [Mifos](https://github.com/orgs/openMF/repositories?label=hacktoberfest)
+- [Mifos - Fineract](https://github.com/apache/fineract)
 
 Organization Projects participating in [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 	
